@@ -6,3 +6,8 @@ Tampermonkey скрипт, который позволяет отвечать п
 ### Установка
 1. Установите [расширение Tampermonkey](https://www.tampermonkey.net/)
 2. Установите [скрипт YouTube Dr.TAG](https://github.com/einarsnow/youtube-dr-tag/raw/main/youtube-dr-tag.user.js)
+
+### Поддержать
+https://donate.stream/einarsnow
+
+<img src="https://user-images.githubusercontent.com/18613872/185506244-e857f330-b615-4068-9be1-0e4f8a18feb3.png" width="234">
