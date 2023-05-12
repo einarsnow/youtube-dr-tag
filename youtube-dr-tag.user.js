@@ -25,7 +25,7 @@ chat.addEventListener("click", function(e) {
     if (e.target.id != "author-name") return
 
     let input = document.querySelector("#input[contenteditable]")
-    input.innerText = `@${e.target.innerText}\xa0${input.innerText}`
+    input.innerText = `${input.innerText}\xa0@${e.target.innerText}`
     input.dispatchEvent(new Event("input"))
 
     const range = document.createRange()
