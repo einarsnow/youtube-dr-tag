@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Dr. Tag
 // @namespace    einarsnow
-// @version      1.0
+// @version      1.1
 // @author       einarsnow
 // @description  Tag user in YouTube live chat by click
 // @updateURL    https://github.com/einarsnow/youtube-dr-tag/raw/main/youtube-dr-tag.user.js
