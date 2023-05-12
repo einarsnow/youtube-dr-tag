@@ -9,9 +9,18 @@
 // @supportURL   https://github.com/einarsnow/youtube-dr-tag
 // @match        https://www.youtube.com/live_chat*
 // @grant        GM_addStyle
+// @grant        GM.addStyle
 // ==/UserScript==
 
 GM_addStyle(`
+    #author-name {
+        cursor: pointer;
+    }
+    #author-name:hover {
+        text-decoration: underline;
+    }
+`)
+GM.addStyle(`
     #author-name {
         cursor: pointer;
     }
