@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube Dr. Tag
 // @namespace    einarsnow
-// @version      1.1
+// @version      1.0
 // @author       einarsnow
 // @description  Tag user in YouTube live chat by click
 // @updateURL    https://github.com/einarsnow/youtube-dr-tag/raw/main/youtube-dr-tag.user.js
@@ -25,7 +25,7 @@ chat.addEventListener("click", function(e) {
     if (e.target.id != "author-name") return
 
     let input = document.querySelector("#input[contenteditable]")
-    input.innerText = `${input.innerText}\xa0@${e.target.innerText}`
+    input.innerText = `@${e.target.innerText}\xa0${input.innerText}`
     input.dispatchEvent(new Event("input"))
 
     const range = document.createRange()
