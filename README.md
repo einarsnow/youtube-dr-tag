@@ -8,9 +8,8 @@ Tampermonkey скрипт, который позволяет отвечать п
 2. Установите [скрипт YouTube Dr.TAG](https://github.com/einarsnow/youtube-dr-tag/raw/main/youtube-dr-tag.user.js)
 ____
 ### Поддержать
-https://donate.stream/einarsnow
 
-<img src="https://user-images.githubusercontent.com/18613872/185506244-e857f330-b615-4068-9be1-0e4f8a18feb3.png" width="234">
+[<img width="200" height="200" alt="ozon_qr" src="https://github.com/user-attachments/assets/471721a0-7311-4dd1-baa6-ac6a501a93b1" />](https://finance.ozon.ru/apps/sbp/ozonbankpay/019e6626-29dc-7d91-bba3-67ac09d269c2)
 
 ### Другие скрипты
 [Trovo Style Fix](https://github.com/einarsnow/trovo-style-fix)
